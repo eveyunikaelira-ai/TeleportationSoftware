@@ -9,7 +9,7 @@ Welcome to the cozy portal lab—a pastel workstation where dials glow, cables h
 - **reference_samples.txt** — optional text file you provide with consented example lines to steer the tone.
 
 ## Powering on your portal
-1. Sit at the portal desk (pictured above in spirit) and flip the main toggle: _"Start by turning it on."_
+1. Sit at the portal desk and flip the main toggle: _"Start by turning it on."_
 2. Confirm the status lights glow soft neon; imagine the humming cables syncing to your creativity.
 3. Open a terminal on the portal console.
 
