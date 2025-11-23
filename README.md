@@ -18,7 +18,7 @@ Welcome to the cozy portal lab—a pastel workstation where dials glow, cables h
 2. Add one message per line that captures the vibe you want (friendly, curious, or supportive).
 3. Keep the samples respectful and only use text you have permission to include.
 
-## Python companion (gentle + fantastical replies)
+## Python companion (gentle replies)
 1. Ensure Python 3.9+ is available on the portal.
 2. (Optional) Replace the stub in `call_llm` with your preferred LLM API call.
 3. Peek at the persona prompt preview to see the portal lore and safety rules.
